@@ -40,16 +40,16 @@ Libraries/
 
 
 
-## Questions
+### Questions
 
-### Question 1
+#### Question 1
 
-###  Business understanding:
-### What is the relation between Job Satisfaction Rating and Country? 
-### This analysis helps us understand which regions have the highest Job Satisfaction Rating, and by looking into the detalis of the work conditions (work hours, holidays, ... ) we can find more about the features that affect Job Satisfaction Rating.
+####  Business understanding:
+#### What is the relation between Job Satisfaction Rating and Country? 
+#### This analysis helps us understand which regions have the highest Job Satisfaction Rating, and by looking into the detalis of the work conditions (work hours, holidays, ... ) we can find more about the features that affect Job Satisfaction Rating.
 
-### Data understanding:
-### Here we have some statistics of the data and numerical fetures
+#### Data understanding:
+#### Here we have some statistics of the data and numerical fetures
 <img width="836" alt="Screenshot 2023-07-24 at 9 59 22 AM" src="https://github.com/H322/DS-Project/assets/24464579/3c78f3e4-fe4b-4727-b5ea-c41374ef6e08">
 
 
@@ -57,9 +57,9 @@ In JobSatisfaction_Country.ipynb notebook we want to find the relation between J
 
 <img width="1084" alt="Screenshot 2023-07-24 at 12 06 50 AM" src="https://media.github.ibm.com/user/399125/files/85b529a0-20dd-43ef-a740-82684ce80d9b">
 
-### Question 2
+#### Question 2
 
-### Business understanding:
+#### Business understanding:
 #### This analysis helps us understand what aspects correlate well to CareerSatisfaction, and by looking into the detalis of those aspects we can find more about the features that affect CareerSatisfaction.
 
 In CareerSatisfaction.ipynb notebook we want to investigate how well can we predict an individual's CareerSatisfaction? What aspects correlate well to CareerSatisfaction:
@@ -73,7 +73,7 @@ We fitted a linear regression to predict the CareerSatisfaction. The fitted mode
 
 This analysis helps us understand what aspects correlate well to CareerSatisfaction, and we found that 'JobSatisfaction', 'HoursPerWeek', 'Salary' and 'StackOverflowSatisfaction' are important features that impact the CareerSatisfaction. 
 
-### Question 3
+#### Question 3
 In HoursPerWeek.ipynb notebook we want to investigate how well can we predict an individual's HoursPerWeek? What aspects correlate well to HoursPerWeek?:
 
 We chose JobSeekingStatus, EmploymentStatus and HomeRemote columns are important categorical features to predict HoursPerWeek.
