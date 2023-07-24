@@ -37,4 +37,5 @@ We fitted a linear regression model with L2 and L1 regularization to prevent ove
 
 ## Acknowledgements
 For this project we Stack Overflow Annual Developer Survey: https://insights.stackoverflow.com/survey/2017#developer-profile-_-specific-developer-types
+
 We used the image from https://www.dice.com/
