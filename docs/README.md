@@ -1,6 +1,6 @@
 ## Developer Job Life 
 
-<img width="729" alt="Screenshot 2023-07-24 at 12 53 19 AM" src="https://media.github.ibm.com/user/399125/files/223c20fe-211f-40fc-8a86-89e8dac24154">
+<img width="729" alt="Screenshot 2023-07-24 at 11 24 23 AM" src="https://github.com/H322/DS-Project/assets/24464579/484e2b24-374f-40f4-8b5c-3403106da612">
 
 
 ## Overview
@@ -34,3 +34,7 @@ We chose JobSeekingStatus, EmploymentStatus and HomeRemote columns are important
 JobSatisfaction, HoursPerWeek, Salary, StackOverflowSatisfaction, and CareerSatisfaction are numerical features used to predict HoursPerWeek.
 
 We fitted a linear regression model with L2 and L1 regularization to prevent overfitting problem and can interperate the relation between the taget variable and independent variables. The r-squared score for our model is:  0.0961797787407.
+
+## Acknowledgements
+For this project we Stack Overflow Annual Developer Survey: https://insights.stackoverflow.com/survey/2017#developer-profile-_-specific-developer-types
+We used the image from https://www.dice.com/
